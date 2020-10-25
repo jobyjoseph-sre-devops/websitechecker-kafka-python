@@ -6,7 +6,7 @@ docker build -t my-python-app .
 docker run -it --rm --name my-running-app my-python-app
 ```
 ### Further Improvements
-1. Monitoring function currently not enabled multiple websites
+1. Monitoring function currently not enabled for multiple websites
 2. Can further improve and optimise database operations
 
 
